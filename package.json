@@ -1,0 +1,13 @@
+{
+  "name": "john-wallet-extractor",
+  "version": "1.0.0",
+  "description": "A script to extact wallets given specific queries",
+  "main": "index.ts",
+  "author": "twitter.com/lelerukjaymoh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
